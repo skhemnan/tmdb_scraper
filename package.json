@@ -1,0 +1,19 @@
+{
+  "name": "khem-movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fast-csv": "^3.5.0",
+    "https": "^1.0.0",
+    "json2csv": "^4.5.4",
+    "sleep": "^6.1.0"
+  }
+}
